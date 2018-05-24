@@ -41,9 +41,6 @@ nav:
     - '/'
   Blog:           
     - '/blog/'
-    - InnerMenu:
-      - '/'
-      - { More: '/' }
   Categories:
     - '/blog/categories/'
     - { Life: '/blog/categories/#life' }
