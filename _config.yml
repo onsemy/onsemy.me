@@ -43,6 +43,7 @@ nav:
     - '/blog/'
     - InnerMenu:
       - '/'
+      - { More: '/' }
   Categories:
     - '/blog/categories/'
     - { Life: '/blog/categories/#life' }
