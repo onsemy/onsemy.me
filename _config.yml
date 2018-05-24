@@ -41,8 +41,10 @@ nav:
     - '/'
   Blog:           
     - '/blog/'
+    - InnerMenu:
+      - '/'
   Categories:
-    - { Categories: '/blog/categories/' }
+    - '/blog/categories/'
     - { Life: '/blog/categories/#life' }
     - { Tech: '/blog/categories/#tech' }
     - { Review: '/blog/categories/#review' }
