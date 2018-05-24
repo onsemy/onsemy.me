@@ -43,6 +43,8 @@ nav:
     - '/blog/'
     - { Categories: '/blog/categories/' }
     - { Tags: '/blog/tags/' }
+    OneMore:
+      - '/blog/'
   Categories:
     - '/'
     # - { Categories: '/blog/categories/' }
