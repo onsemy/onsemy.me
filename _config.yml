@@ -46,9 +46,9 @@ nav:
   Categories:
     - '/'
     # - { Categories: '/blog/categories/' }
-    - { Life: '/blog/categories/life' }
-    - { Tech: '/blog/categories/tech' }
-    - { Review: '/blog/categories/review' }
+    - { Life: '/blog/categories/#life' }
+    - { Tech: '/blog/categories/#tech' }
+    - { Review: '/blog/categories/#review' }
   About:          
     - '/about/'
 

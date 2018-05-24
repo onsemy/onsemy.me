@@ -1,30 +1,56 @@
 ---
 layout: page
 title: About
+permalink: /about/
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+![오정진 사진]({{ site.baseurl }}/images/me.jpg)
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+기본정보
+--------------------
 
-There are currently two themes built on Poole:
+### 인적사항
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+- 오정진 / 吳正鎭 / Oh Jeongjin / オ　ジョンジン
+- 1989.07.29
+- 대한민국 서울특별시 용산구 출생
+- 대한민국 서울특별시 성북구 거주
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+### 교육사항
 
-## Setup
+- 선린인터넷고등학교 웹운영과 졸업 (2005.03~2008.02)
+- 경희대학교 컴퓨터공학과 졸업 (2008.03~2018.02)
 
-Some fun facts about the setup of this project include:
+### 병역사항
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+- 대한민국 육군 병장 만기 전역 (2010.04~2012.01) - 육군 인사사령부
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+### 경력사항
 
-Thanks for reading!
+- 2winGames / Client Engineer (2014.06~2014.08) - 대한민국, 서초
+  - Unity - Android 간의 게임에 필요한 각종 플러그인 연동 및 NGUI 제작 보조
+- Zepetto Co. / DAY1 Eng Client Engineer (2015.02~2017.06) - 대한민국, 마포
+  - PointBlank Mobile UI 및 Out-Game Client-Side Network, Build System 담당
+  - Project L의 In-Game Prototyping 담당
+- FunCrew Inc. / Client Engineer (2017.07~2018.03) - 일본, 시부야
+  - Project Q의 System, UI, In-Game Logic, Build System 담당
+- Entermate Co., Ltd / Client Engineer (2018.04~) - 대한민국, 서초
+  - Soul of Heroes의 Client 담당
+
+### 수상내역
+
+- 제24회 한국정보올림피아드 공모부문 고등부 은상 (2007.08)
+- 2007 Tistory 우수 블로그 (2008.01)
+- 2012 글로벌 게임제작 경진대회 인디게임 일반부 장려상 (2012.10)
+- 경희대학교 컴퓨터공학과 프로그래밍 경진대회 은상 (2012.12)
+- 제1회 경희대학교 로봇소프트웨어 경진대회 MSRDS부문 은상 (2013.12)
+
+### 기타사항
+
+- 삼성소프트웨어멤버십 강남멤버십 23-3기 게임 프로그래머 (2012.12~2013.12) - 대한민국, 강남
+
+### Contact me
+
+- [email](mailto:onsemy@gmail.com)
+- [github](https://github.com/onsemy)
+- [linkedin](https://linkedin.com/in/onsemy)
