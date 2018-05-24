@@ -4,7 +4,7 @@ tagline: 'Jeongjin Oh'
 description: 'Lazy Game Programmer <a href="https://github.com/Game-Pocket" target="_blank">@Game-Pocket</a>'
 baseurl: ""
 url: https://onsemy.me
-logo: '/assets/avatar.jpg'
+logo: '/images/avatar.jpg'
 
 # Site configurations
 gems:
