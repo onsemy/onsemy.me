@@ -41,16 +41,13 @@ nav:
     - '/'
   Blog:           
     - '/blog/'
-    - { Categories: '/blog/categories/' }
-    - { Tags: '/blog/tags/' }
-    OneMore:
-      - '/blog/'
   Categories:
-    - '/'
-    # - { Categories: '/blog/categories/' }
+    - { Categories: '/blog/categories/' }
     - { Life: '/blog/categories/#life' }
     - { Tech: '/blog/categories/#tech' }
     - { Review: '/blog/categories/#review' }
+  Tags:
+    - '/blog/tags/'
   About:          
     - '/about/'
 
