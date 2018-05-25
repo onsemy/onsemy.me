@@ -4,7 +4,7 @@ title: 다시 근황?
 date: 2018-05-25 10:18:00
 author: Jeongjin Oh
 categories: Life
-tags: Life iPad Apple_Pencil AutoDesk_SketchBook 'Destiny 2'
+tags: Life iPad Apple_Pencil AutoDesk_SketchBook Destiny_2
 ---
 
 지난 4월 23일 E사에 입사한 이후 한달이 조금 넘었다. 그동안 시간이 어떻게 흘러갔는지 잘 모르겠다. 입사하고 얼마 못가서 크런치를 했고, 한달 바짝 놀아서 그런가 적응에 조금 애를 먹었던 것 같다. 장소와 연봉만 달라졌을 뿐 일은 어딜가도 똑같은 걸 다시금 깨달았다. 그래도 여기는 개발을 돕는 도구에 대한 개발을 충실히 해서 여러 가지를 보고 배울 수 있었다. 최근에는 Unity의 Editor와 관련된 스크립트를 보고 있다. 개발하면서 공부하게 된 것들에 대해서도 틈틈이 이곳에 정리해볼 생각이다.
