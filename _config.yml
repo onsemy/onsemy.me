@@ -15,7 +15,7 @@ kramdown:
 excerpt_separator: "<!-- more -->"
 sass:
   style: compressed
-  sass_dir: _scss    
+  sass_dir: _scss
 paginate: 5
 paginate_path: '/blog/page:num'
 permalink: pretty
@@ -25,7 +25,7 @@ version: 1.0.0
 # About/contact
 author:
   name: Jeongjin Oh
-  description: <strong>Lazy Game Programmer</strong>
+  description: <strong>Lazy Game Programmer <a href="https://github.com/Game-Pocket">@Game-Pocket</a></strong>
   # gravatar: 3c2986ad7ac1f2230ea3596f44563328 # md5 hash of your email address
   contact:
     linkedin:  https://www.linkedin.com/in/onsemy
@@ -37,9 +37,9 @@ author:
 
 # Navigation (2nd level links supported)
 nav:
-  Home:           
+  Home:
     - '/'
-  Blog:           
+  Blog:
     - '/blog/'
   Categories:
     - '/blog/categories/'
@@ -48,7 +48,7 @@ nav:
     - { Review: '/blog/categories/#review' }
   Tags:
     - '/blog/tags/'
-  About:          
+  About:
     - '/about/'
 
 # Where are tags and categories displayed
