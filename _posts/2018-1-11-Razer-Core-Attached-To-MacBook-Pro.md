@@ -3,8 +3,8 @@ layout: post
 title: MacBook Pro 13" 2017 + Razer Core with NVIDIA GeForce GTX 970 연동 후기
 date: 2018-01-11 00:00:00
 author: Jeongjin Oh
-categories: Life
-tags: Razer Core
+categories: Tech
+tags: Razer Core MacBook Pro 13" 2017
 ---
 
 이번에 9박 10일(2018/1/9~2018/1/18) 일정으로 한국에 오게 되었다. 쉬는 거였으면 정말로 좋았겠지만, 나름 일을 하러 온 것이다 (하지만 전혀 일하고 있지 않지...) 어차피 오게 될 거, [지난 포스팅]({{ site.baseurl }}/Considering-To-Buy-About-ThinkPad)의 원인이 된 것 중 하나인 Razer Core를 나의 MacBook과 연동을 꼭 성공시키고야 말겠다는 목표를 세웠다.
