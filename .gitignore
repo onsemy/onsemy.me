@@ -44,5 +44,17 @@ bower_components
 # sass
 .sass-cache
 
-# vscode workspace
-onsemy.me_neo.code-workspace
+
+# Created by https://www.gitignore.io/api/visualstudiocode
+
+### VisualStudioCode ###
+.vscode/*
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+
+# End of https://www.gitignore.io/api/visualstudiocode
