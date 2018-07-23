@@ -13,7 +13,7 @@ tags: unity android build eclipse gradle
 
 어쨌든, `Android Studio`가 아닌 `Eclipse` Project로 바꾸는 일을 너무 복잡하게 생각했던 것 같다. 기존에는 `Unity`에서 `Eclipse ADT`용 Project를 뽑기 위해서는
 
-![Build Settings에서 Android Target일 때]](/images/2018-7-18-Unity-Android-Build-Through-Eclipse-With-Gradle/1.png)
+![Build Settings에서 Android Target일 때](/images/2018-7-23-Unity-Android-Build-Through-Eclipse-With-Gradle/1.png)
 
 위와 같이 Build System을 `ADT(Legacy)`로 놓고 해야 한다. 나도 처음에는 그렇게 진행했지만, `Eclipse`는 `Android`의 지원이 끊긴지 오래되었고, 관련 자료들은 없거나 다른 Platform으로 바뀌었고, 관련하여 오류가 발생해서 검색을 해도 현재는 쓸 수 없는 옛날 자료만 방대하게 나올 뿐이었다. 그렇게 며칠을 Build도 제대로 해보지 못한 채로 보내야 했다. 그렇게 스트레스는 날로 하늘을 찔렀고, 나의 머리카락도 후두둑 빠지기 시작했다 (...)
 
@@ -36,6 +36,6 @@ Eclipse에서 Gradle Project를 불러오기 위해서는 Unity에서 Android Bu
 
 한 가지 더 저 링크에서 설명되지 않은 부분이 있는데, Gradle Project의 Directory 내에 `gradle/wrapper/gradle-wrapper.properties`에 버전을 지정하지 않으면 Gradle Project를 불러올 때 Gradle Wrapper의 버전을 특정하지 못해서 불러올 수 없을 것이다.
 
-![gradle-wrapper.properties](/images/2018-7-18-Unity-Android-Build-Through-Eclipse-With-Gradle/2.png)
+![gradle-wrapper.properties](/images/2018-7-23-Unity-Android-Build-Through-Eclipse-With-Gradle/2.png)
 
 같은 실수를 반복하지 않기 위해 일단 두서없이 정리를 해보았다.
