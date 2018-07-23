@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Eclipse Gradle를 이용한 Unity Android Build
-date: 2018-07-18 12:36:00
+date: 2018-07-23 12:25:00
 author: Jeongjin Oh
 categories: Tech
 tags: unity android build eclipse gradle
@@ -34,4 +34,8 @@ Eclipse에서 Gradle Project를 불러오기 위해서는 Unity에서 Android Bu
 
 이후 뽑혀져 나온 Directory에서 앞서 링크로부터 설정한대로 따라서 불러오면 되겠다.
 
-한 가지 더 저 링크에서 설명되지 않은 부분이 있는데, 
+한 가지 더 저 링크에서 설명되지 않은 부분이 있는데, Gradle Project의 Directory 내에 `gradle/wrapper/gradle-wrapper.properties`에 버전을 지정하지 않으면 Gradle Project를 불러올 때 Gradle Wrapper의 버전을 특정하지 못해서 불러올 수 없을 것이다.
+
+![gradle-wrapper.properties](/images/2018-7-18-Unity-Android-Build-Through-Eclipse-With-Gradle/2.png)
+
+같은 실수를 반복하지 않기 위해 일단 두서없이 정리를 해보았다.
