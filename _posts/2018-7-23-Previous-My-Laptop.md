@@ -29,11 +29,11 @@ tags: laptop history lenovo thinkpad dell xps samsung ativ apple macbook razer b
 
 스펙은 한참 부족했지만, 어차피 군대에서 휴가 나와있는 동안에 많은 것을 할 수는 없었던지라 적당히 만족해하면서 썼다. 구입은 2008년 7~8월 즈음에 했으니 전역 전(2011년 12월)까지 거의 3년을 사용했다. 참고로 901은 첫 알바비로 샀다. 어찌보면 기념비적인(?) 녀석이다. 이걸 사려고 알바를 했으니 (...)
 
-## 3. MSI X460DX i5-Fantasia
+## 3. MSI X460DX i5-Fantasia S2
 
 누나에게 전역 선물로 ~~강요(?)해서~~ 2011년 12월 말 즈음에 받은 노트북이다. 구입 당시엔 꽤 괜찮은 사양으로 구성을 했고, 나도 만족해하면서 사용했다. 이 노트북으로 *2012 글로벌 게임제작 경진대회*에서 장려상을 타게 된 `DigiDigi`를 만들었다.
 
-![학생 시절 황금기(?)를 함께했던 X460DX](/images/2018-7-23-Previous-My-Laptop/3.png)
+![학생 시절 황금기(?)를 함께했던 X460DX](/images/2018-7-23-Previous-My-Laptop/3.jpg)
 
 2011년 12월부터 2013년 1월까지 사용했다. 1년 여 동안 알토란같은 역할을 해주었다.
 
@@ -41,7 +41,7 @@ tags: laptop history lenovo thinkpad dell xps samsung ativ apple macbook razer b
 
 2012년 12월, *삼성소프트웨어멤버십*에 합격하게 되면서 3달동안 합숙을 하게 되었는데, 이전에 X460DX로 VM에 Mac을 깔아가면서 개발했던게 워낙 서러워서 (...) 중고로 싸게 올라온 매물을 사게 되었다. 기존에 쓰던 MSI는 중고로운 평화나라에 팔았다. 이 노트북으로 멤버십에서의 창의과제를 진행했고, 좋은 파트너였다. 다만 대학 수업 시간에 이녀석으로 필기나 코딩을 하다가 갑자기 팬이 막 돌아서 민망했던 적이 더러 있었다.
 
-![멤버십의 절반을 함께 했던 MacBook Air](/images/2018-7-23-Previous-My-Laptop/4.png)
+![멤버십의 절반을 함께 했던 MacBook Air](/images/2018-7-23-Previous-My-Laptop/4.jpg)
 
 2012년 1월부터 2012년 7월까지 사용했다. 생애 첫 Mac에 대한 기억은 좋게 시작했다.
 
@@ -72,6 +72,12 @@ tags: laptop history lenovo thinkpad dell xps samsung ativ apple macbook razer b
 ## 17. Lenovo ThinkPad T480
 
 ## 번외. LG Gram 13" (2014)
+
+Z사에 다닐 때 *커뮤니케이션 디바이스*의 명목으로 전 사원에게 지급되었던 노트북이다. 2015년까지는 LG Gram을 지급받았고, 2016년 이후로는 Lenovo의 IdeaPad를 줬던 걸로 기억한다. 가벼워서 좋기는 했지만 특유의 경박(?)한 키감과 발열, 영 좋지 못한 내구성 등을 쓰면서 체험해서 썩 좋은 기억은 없다. 그래도 처음 지급받았을 때 사진을 찍었을 법 한데 하나도 남지 않은 것 보면 별로 좋은 기억은 아니었던 것 같다 (...)
+
+![겨우 찾은 사진 1장](/images/2018-7-23-Previous-My-Laptop/misc.jpg)
+
+겨우 사진을 1장 찾았는데, 그마저도 쩌리다 (...)
 
 ---
 
