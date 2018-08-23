@@ -7,11 +7,15 @@ categories: Review
 tags: unity webgl kemono_friends servalrun run_game prototype
 ---
 
+<center>![ServalRun의 Serval](/images/2018-8-17-Postmortem-About-ServalRun-Prototype/1.gif)</center>
+
 지난 6월 초부터 시작했던 *ServalRun*의 Prototype이 7월 ~~28~~27일에 완성했다. 이 Project로 말할 것 같으면 지난 5월 말~6월 초 즈음에 게임 업계로 오고 싶어하는 지인이 있었는데, 그 분이 *케모노 프렌즈*의 주인공인 *서벌*을 뜀박질하는 모습을 공개하면서 시작되었다. *평소 런게임은 어떻게 만들까?*라는 생각을 해왔던 터라 흥미도 있었고, *서벌*을 만든 분은 아직 취업을 하지 못해서 Portfolio를 겸해서 진행해보는 것이 좋을 것 같아서 함께 진행하기로 했다. 원래는 Prototype 제작 2주, QA 1주, 안정화 및 추가 작업 2주, QA 1주의 총 6주 정도의 일정으로 생각을 했다. Programming을 전담할 나를 포함해서 게임의 전체적인 Graphic을 하실 [`@everev`](https://github.com/everev), 전체적인 기획 및 Level Design을 할 [`@norong`](https://github.com/norong)과 함께 만들게 되었다. [`@ungikim`](https://github.com/ungikim)은 일정 감수~~물주~~를 해주었다.
 
 일단 위에 언급되었던 일정을 정하기 전에 *github*에 Repository를 먼저 생성했다. 나를 제외하고는 모두 git을 처음 써보는 상황에서 최대한 알기 쉽게 설명을 해주려 노력을 했다. 그런데 이런 상황이 처음은 아니었다. 첫 회사를 다니던 2016년 11월 경, 사내에 버전 관리를 *Asset Server*로 하고 있었다. 당시 여러 국가에 서비스를 해야 했고 국가별로 내용이 조금씩 달라졌기 때문에 따로 관리해야하는 상황에서 *SVN*과 *git*중에서 선택을 해야하는 상황에 놓였다. Client팀에서 여러 가지를 고려한 결과 *git*을 쓰기로 했는데, 문제는 나 이외에 아무도 *git*을 써본 사람이 없었다. 당시의 나도 20명 가량의 팀에서 *git*을 써본 적이 당연히 없기 때문에 난감했지만 잘 정착 시키기 위해 백방으로 뛰어다녔다. 비(非)개발자들도 있었기 때문에 쉽게 해보려 했으나 역시나 설명이 부족했고 그 결과로 몸으로 뛰어 다니면서 문제를 해결하는 상황에 놓였다. 그렇게 1~2달을 뛰어다니니 다들 적응을 해줘서 나름 성공적(?)으로 정착이 되었다. 어찌되었든 최대한 기본 Role만 설명을 해주고 문제가 생길 때마다 즉시 알려주도록 했다. 역시나 1~2주동안은 열심히 *git*과 관련한 문제로 바쁘게 지나갔다. 그래도 지난 날의 아픔(?)이 있었기에 쉽게 풀어갔던 것 같다.
 
-6월 초에 모두가 모여서 첫 회의를 했다. *Google Chrome*의 공룡 런게임을 따라서 *케모노 프렌즈*의 특징을 담아서 만들기로 했다. 위에서 말한 것처럼 6주의 일정으로 진행하기로 했다. 
+6월 초에 모두가 모여서 첫 회의를 했다. *Google Chrome*에서 볼 수 있는 Offline 시의 공룡 런게임을 따라서 *케모노 프렌즈*의 특징을 담아서 만들기로 했다. 위에서 말한 것처럼 6주의 일정으로 진행하기로 했다. Playable Character 1종, Opponent Character 1종, Tile 5종, 배경 3종 등으로 Resource를 구성했다. Map Tool과 Play 가능한 Map 1종도 Prototype에 포함하기로 했다.
+
+<center>![ServalRun Prototype Screenshot](/images/2018-8-17-Postmortem-About-ServalRun-Prototype/n.png)</center>
 
 실제 해보고 싶다면 [이곳](https://onsemy.github.io/ServalRun/Prototype)에서 체험 가능하다.
 
