@@ -34,7 +34,7 @@ permalink: /about/
   - Project L의 In-Game Prototyping 담당
 - FunCrew Inc. / Client Engineer (2017.07~2018.03) - 일본, 시부야
   - Project Q의 System, UI, In-Game Logic, Build System 담당
-- Entermate Co., Ltd / Client Engineer (2018.04~) - 대한민국, 서초
+- Entermate Co., Ltd / Client Engineer (2018.04~2018.08) - 대한민국, 서초
   - Soul of Heroes의 Client 담당
 
 ### 수상내역
