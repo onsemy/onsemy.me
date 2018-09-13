@@ -7,7 +7,7 @@ categories: Review
 tags: unity webgl kemono_friends servalrun run_game prototype
 ---
 
-<center>![ServalRun의 Serval](/images/2018-9-13-Postmortem-About-ServalRun-Prototype/1.gif)</center>
+![ServalRun의 Serval](/images/2018-9-13-Postmortem-About-ServalRun-Prototype/1.gif)
 
 지난 6월 초부터 시작했던 *ServalRun*의 Prototype이 7월 ~~28~~27일에 완성했다. 이 Project로 말할 것 같으면 지난 5월 말~6월 초 즈음에 게임 업계로 오고 싶어하는 지인이 있었는데, 그 분이 *케모노 프렌즈*의 주인공인 *서벌*을 뜀박질하는 모습을 공개하면서 시작되었다. *평소 런게임은 어떻게 만들까?*라는 생각을 해왔던 터라 흥미도 있었고, *서벌*을 만든 분은 아직 취업을 하지 못해서 Portfolio를 겸해서 진행해보는 것이 좋을 것 같아서 함께 진행하기로 했다. 원래는 Prototype 제작 2주, QA 1주, 안정화 및 추가 작업 2주, QA 1주의 총 6주 정도의 일정으로 생각을 했다. Programming을 전담할 나를 포함해서 게임의 전체적인 Graphic을 하실 [`@everev`](https://github.com/everev), 전체적인 기획 및 Level Design을 할 [`@norong`](https://github.com/norong)과 함께 만들게 되었다. [`@ungikim`](https://github.com/ungikim)은 일정 감수~~물주~~를 해주었다.
 
@@ -15,7 +15,7 @@ tags: unity webgl kemono_friends servalrun run_game prototype
 
 6월 초에 모두가 모여서 첫 회의를 했다. *Google Chrome*에서 볼 수 있는 Offline 시의 공룡 런게임을 따라서 *케모노 프렌즈*의 특징을 담아서 만들기로 했다. 위에서 말한 것처럼 6주의 일정으로 진행하기로 했다. Playable Character 1종, Opponent Character 1종, Tile 5종, 배경 3종 등으로 Resource를 구성했다. Map Tool과 Play 가능한 Map 1종도 Prototype에 포함하기로 했다.
 
-<center>![ServalRun Prototype 회의록](/images/2018-9-13-Postmortem-About-ServalRun-Prototype/2.png)</center>
+![ServalRun Prototype 회의록](/images/2018-9-13-Postmortem-About-ServalRun-Prototype/2.png)
 
 처음 시작했을 땐 역시나 굉장히 의욕적으로 작업을 진행했지만, 각자 직장을 다니고 있었고 작업할 시간이 생각보다 나오지 않았다. 일단 나부터 작업이 되지 않아서 다른 사람들의 작업도 지체되는 경우가 많다보니 6주 안으로 도저히 끝날 수 없다는 것을 깨닫기까지 오랜 시간이 걸리지 않았다. 그렇게 질질 끌려가던 작업이 결국 7월이 되어서도 큰 진전이 없었다. 게임 자체는 간단해서 금방할 것 같았지만 내 나름대로의 욕심이 생겨서 좀 더 정교하게 만드려다 보니 이도저도 아니게 되어버리고 있었다. 그리고 다들 동기부여가 확실하지 않은 상태에서 하다보니 지지부진했던 것도 한 몫 했던 것 같다. 하지만 생각해보니 7월에는 큰(?) 행사가 하나 있었다. 바로 *3연전*이라고 불리우는 내가 속한 그룹의 행사였던 것. 나를 포함해서 7월 28, 29, 30일에 생일이 연달아 있는 것을 함께 챙겨주자는 것과 여름 휴가 시즌이기도 하고 다함께 모여서 놀고 먹는 것을 거의 10년동안 하고 있었다. 우리는 *3연전*에 맞춰서 완성하는 것을 목표로 달리기 시작했다. 확실히 동기부여가 되니까 작업 속도나 능률이 달라지긴 했다. 그도 그럴 것이 대학생 이후로 하지 않던 버스 코딩까지 시전했다. 출퇴근 시간이 1시간이 조금 넘다보니 출근 시간은 앉기도 힘들어서 어쩔 수 없다고 쳐도 퇴근 시간엔 무조건 앉아서 갈 수 있기 때문에 1시간동안이라도 집중해서 작업을 하는 것이 좋겠다고 생각이 들었다.
 
