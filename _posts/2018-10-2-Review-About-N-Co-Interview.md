@@ -1,6 +1,6 @@
 ---
 layout: post
-title: N사 면접 후기
+title: (또다른) N사 면접 후기
 date: 2018-10-02 20:39:00
 author: Jeongjin Oh
 categories: Life
