@@ -28,14 +28,16 @@ permalink: /about/
 ### 경력사항
 
 - 2winGames / Client Engineer (2014.06~2014.08) - 대한민국, 서초
-  - Unity - Android 간의 게임에 필요한 각종 플러그인 연동 및 NGUI 제작 보조
+  - '몬스터친구들 for Kakao'의 Unity - Android 간 게임에 필요한 각종 플러그인 연동 및 NGUI 제작 보조
 - Zepetto Co. / DAY1 Eng Client Engineer (2015.02~2017.06) - 대한민국, 마포
-  - PointBlank Mobile UI 및 Out-Game Client-Side Network, Build System 담당
-  - Project L의 In-Game Prototyping 담당
+  - 'PointBlank Mobile'의 UI 및 Out-Game Client-Side Network, Build System 담당
+  - 'Project L'의 In-Game Prototyping 담당
 - FunCrew Inc. / Client Engineer (2017.07~2018.03) - 일본, 시부야
-  - Project Q의 System, UI, In-Game Logic, Build System 담당
+  - 'マチガイブレイカー'의 System, UI, In-Game Logic, Build System 담당
 - Entermate Co., Ltd / Client Engineer (2018.04~2018.08) - 대한민국, 서초
-  - Soul of Heroes의 Client 담당
+  - 'Soul of Heroes'의 Client 및 중국 서비스 담당
+- NDream / Client Engineer (2018.10~) - 대한민국, 송파
+  - 'Project M'의 Client 담당
 
 ### 수상내역
 
