@@ -56,7 +56,7 @@ tag_page: '/blog/tags/'
 category_page: '/blog/categories/'
 
 hero:
-  image: /images/home.jpg
+  image: /images/home.gif
   caption: Welcome to ようこそ 온새미 집에!
 
 # Puglins
