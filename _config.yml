@@ -44,7 +44,8 @@ nav:
   Categories:
     - '/blog/categories/'
     - { Life: '/blog/categories/#life' }
-    - { Tech: '/blog/categories/#tech' }
+    - { Study: '/blog/categories/#study' }
+    - { Project: '/blog/categories/#project' }
     - { Review: '/blog/categories/#review' }
   Tags:
     - '/blog/tags/'
@@ -59,7 +60,7 @@ hero:
   image: /images/home.gif
   caption: Welcome to ようこそ 온새미 집에!
 
-# Puglins
+# Plugins
 mathjax: true # whether support mathjax
 google_analytics_token: '' # leave blank if you don't want google analytics
 disqus_short_name: 'onsemy' # leave blank if you don't want disqus

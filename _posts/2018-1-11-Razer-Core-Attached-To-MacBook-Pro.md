@@ -3,7 +3,7 @@ layout: post
 title: MacBook Pro 13" 2017 + Razer Core with NVIDIA GeForce GTX 970 연동 후기
 date: 2018-01-11 00:00:00
 author: Jeongjin Oh
-categories: Tech
+categories: Review
 tags: Razer Core MacBook Pro 13" 2017
 ---
 

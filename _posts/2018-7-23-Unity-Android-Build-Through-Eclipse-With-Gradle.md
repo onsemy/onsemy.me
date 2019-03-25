@@ -3,7 +3,7 @@ layout: post
 title: Eclipse Gradle를 이용한 Unity Android Build
 date: 2018-07-23 12:25:00
 author: Jeongjin Oh
-categories: Tech
+categories: Study
 tags: unity android build eclipse gradle
 ---
 
