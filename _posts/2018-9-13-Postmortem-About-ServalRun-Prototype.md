@@ -3,7 +3,7 @@ layout: post
 title: ServalRun Prototype Postmortem
 date: 2018-09-13 21:33:00
 author: Jeongjin Oh
-categories: Review
+categories: Project
 tags: unity webgl kemono_friends servalrun run_game prototype
 ---
 
