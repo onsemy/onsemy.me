@@ -36,8 +36,8 @@ permalink: /about/
   - 'マチガイブレイカー'의 System, UI, In-Game Logic, Build System 담당
 - Entermate Co., Ltd / Client Engineer (2018.04~2018.08) - 대한민국, 서초
   - 'Soul of Heroes'의 Client 및 중국 서비스 담당
-- NDream / Client Engineer (2018.10~) - 대한민국, 송파
-  - 'Project M'의 Client 담당
+- NDream / Client Engineer (2018.10~2019.06) - 대한민국, 송파
+  - '미르W'의 시스템(UE4) 및 컨텐츠 담당
 
 ### 수상내역
 
