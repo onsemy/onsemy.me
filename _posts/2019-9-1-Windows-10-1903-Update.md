@@ -7,7 +7,7 @@ categories: Life
 tags: Windows 1903 Update
 ---
 
-Razer Blade 15 9Gen R80을 사고나서 Windows 10의 1903 업데이트를 진행하고자 부단히 노력했다. 하지만 매번 21% 또는 48%에서 막히며 번번히 실패... 그래서 오늘 날을 잡아서 각잡고(?) 업데이트를 진행해보기로 했다.
+*Razer Blade 15 9Gen R80*을 사고나서 Windows 10의 1903 업데이트를 진행하고자 부단히 노력했다. 하지만 매번 21% 또는 48%에서 막히며 번번히 실패... 그래서 오늘 날을 잡아서 각잡고(?) 업데이트를 진행해보기로 했다.
 
 나는 해외의 [이 사이트](https://www.wintips.org/fix-windows-10-update-1903-fails-to-install/)에서 참고하며 진행했다.
 
