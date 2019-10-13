@@ -38,7 +38,7 @@ permalink: /about/
   - 'Soul of Heroes'의 Client 및 중국 서비스 담당
 - NDream / Client Engineer (2018.10~2019.06) - 대한민국, 송파
   - '미르W'의 시스템(UE4) 및 컨텐츠 담당
-- OvenCode / Gameplay Programmer (2019.07~) - 대한민국, 서초
+- OvenCode / Gameplay Programmer (2019.07~2019.09) - 대한민국, 서초
   - 'Monster Park'의 클라이언트 파트 담당
 
 ### 수상내역
