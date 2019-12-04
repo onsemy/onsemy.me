@@ -40,6 +40,8 @@ permalink: /about/
   - '미르W'의 시스템(UE4) 및 컨텐츠 담당
 - OvenCode / Gameplay Programmer (2019.07~2019.09) - 대한민국, 서초
   - 'Monster Park'의 클라이언트 파트 담당
+- BluestoneSoft / Client Programmer (2019.12~) - 대한민국, 서초
+  - 'SoulArk'의 클라이언트 담당
 
 ### 수상내역
 
