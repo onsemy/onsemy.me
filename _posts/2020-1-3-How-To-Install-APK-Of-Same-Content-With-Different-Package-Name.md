@@ -11,8 +11,6 @@ tags: Unity Android Facebook Different Package Name
 
 회사 업무로 같은 컨텐츠의 APK지만 다른 Package Name(또는 Bundle ID)로 Build를 해야하는 경우가 생겨서 관련하여 작업하고 있었다. 지금까지 Unity에서 단순히 Package Name만 바꾸면 기기에서는 다른 App으로 인식하여 별도의 App으로 깔리는게 정석이었으나 이상하게도 우리 Project는 그러지 않았다. 처음에는 App Player(LDPlayer)의 문제로 생각했으나 그건 아니었고, 내가 알지 못하는 사이에 정책(또는 설정)이 바뀌었나 싶어서 각종 Unity의 설정을 뒤져보았으나 결국 알아내지 못하고 있었다.
 
-![오류1](/images/2020-1-3-How-To-Install-APK-Of-Same-Content-With-Different-Package-Name/1.jfif) ![오류2](/images/2020-1-3-How-To-Install-APK-Of-Same-Content-With-Different-Package-Name/2.jfif)
-
 그래서 일단 아예 새 Project를 만들어서 SampleScene만 있는 상태에서 Package Name만 바꿔서 Build하니 제대로 되었다. 일단 정책이나 설정에는 문제가 없는 것 같다. 설치할 때의 오류를 좀 더 자세히 보기 위해 Logcat을 열어보았다. 그런데 이걸 진즉에 했어야 했다. 바로 아래와 같이 자세히 나와있었기 때문이다.
 
 ```log
