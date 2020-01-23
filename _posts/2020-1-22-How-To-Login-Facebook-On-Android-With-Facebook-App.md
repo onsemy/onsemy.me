@@ -23,6 +23,11 @@ tags: Facebook Login Android
 
 내가 이전에 Facebook Developer Console에서 Key Hash를 등록할 때 Unity에서 생성한 Keystore를 가지고 keytool을 이용하여 뽑았는데, 그 값이 틀렸던 것이다. ~~아니 이게 왜 틀리지;~~ 다행히 같은 Keystore로 Build한 APK의 Key Hash는 바뀌지 않는 것 같다.
 
+> 2020/01/23 추가  
+보통 Facebook의 Android Key Hash 등록과 관련하여 아래와 같은 솔루션이 많다.  
+```keytool -exportcert -alias <RELEASE_KEY_ALIAS> -keystore <RELEASE_KEY_PATH> | openssl sha1 -binary | openssl base64```  
+문제는 위의 솔루션이 Unity에서 생성한 Keystore로는 어째선지 적용이 되지 않는 것인데, 혹시 Android Studio에서 생성한 Keystore는 문제가 없는지 확인해봐야 하지만 테스트할 시간이 여의치는 않다. 뭐 그런데 대부분의 솔루션들에 대한 베이스는 Android Studio를 기반으로 하고 있기 때문에 문제가 없을 것 같다. ~~Unity 이노오오오옴...~~
+
 혀튼 APK를 다시 뽑아야 하는 상황이 아닌 것에 굉장한 감사를 느끼며 이거 하나 테스트를 생각 못했던 내 멍청함과 QA과정에서 아무도 Facebook App이 깔린 상태로 테스트를 시도하지 않았다는 사실에 경악하며... 대규모 업데이트 첫 날을 무사히(?) 마무리할 수 있을 것 같다.
 
 까먹을까봐 부랴부랴 회사에서 빠르게 공유를 해본다. ~~그러고보니 이번에도 Facebook이 문제였네~~
