@@ -3,7 +3,7 @@ layout: post
 title: 매주 책 읽기 프로젝트
 date: 2020-02-10 22:54:00
 author: Jeongjin Oh
-categories: Review/Book
+categories: Books
 tags: 매주 책 읽기
 ---
 
