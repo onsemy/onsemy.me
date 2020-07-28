@@ -3,7 +3,7 @@ layout: post
 title: Keychron K1 Keyboard
 date: 2019-10-19 23:48:00
 author: Jeongjin Oh
-categories: Gadget
+categories: Review
 tags: Keychron K1 Keyboard
 ---
 
