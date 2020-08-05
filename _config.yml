@@ -47,7 +47,6 @@ nav:
     - { Study: '/blog/categories/#study' }
     - { Project: '/blog/categories/#project' }
     - { Review: '/blog/categories/#review' }
-    - { Gadget: '/blog/categories/#gadget' }
     - { Books: '/blog/categories/#books' }
   Tags:
     - '/blog/tags/'
