@@ -48,6 +48,7 @@ nav:
     - { Project: '/blog/categories/#project' }
     - { Review: '/blog/categories/#review' }
     - { Books: '/blog/categories/#books' }
+    - { Piano: '/blog/categories/#piano' }
   Tags:
     - '/blog/tags/'
   About:
