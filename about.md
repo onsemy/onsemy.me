@@ -13,7 +13,6 @@ permalink: /about/
 
 - 오정진 / 吳正鎭 / Oh Jeongjin / オ　ジョンジン
 - 1989.07.29
-- 대한민국 서울특별시 용산구 출생
 - 대한민국 서울특별시 성북구 거주
 
 ### 교육사항
@@ -27,21 +26,21 @@ permalink: /about/
 
 ### 경력사항
 
-- 2winGames / Client Engineer (2014.06~2014.08) - 대한민국, 서초
-  - '몬스터친구들 for Kakao'의 Unity - Android 간 게임에 필요한 각종 플러그인 연동 및 NGUI 제작 보조
+- ToWinGames / Client Engineer (2014.06~2014.08) - 대한민국, 서초
+  - *몬스터친구들 for Kakao*(Unity/C#)의 각종 플러그인 연동 및 NGUI 제작 보조
 - Zepetto Co. / DAY1 Eng Client Engineer (2015.02~2017.06) - 대한민국, 마포
-  - 'PointBlank Mobile'의 UI 및 Out-Game Client-Side Network, Build System 담당
-  - 'Project L'의 In-Game Prototyping 담당
+  - *PointBlank Mobile*(Unity/C#)의 UI(uGUI) 및 아웃게임 컨텐츠, 클라이언트 통신 시스템, 빌드 시스템 담당
+  - *Project L*의 인게임 컨텐츠 프로토타이핑 담당
 - FunCrew Inc. / Client Engineer (2017.07~2018.03) - 일본, 시부야
-  - 'マチガイブレイカー'의 System, UI, In-Game Logic, Build System 담당
+  - *マチガイブレイカー*(Unity/C#)의 시스템, UI, 인게임 컨텐츠, 빌드 시스템 담당
 - Entermate Co., Ltd / Client Engineer (2018.04~2018.08) - 대한민국, 서초
-  - 'Soul of Heroes'의 Client 및 중국 서비스 담당
+  - *Soul of Heroes*(Unity/C#)의 클라이언트 및 중국 서비스 담당
 - NDream / Client Engineer (2018.10~2019.06) - 대한민국, 송파
-  - '미르W'의 시스템(UE4) 및 컨텐츠 담당
+  - *미르W*(UE4/C++)의 시스템, 툴 및 컨텐츠 담당
 - OvenCode / Gameplay Programmer (2019.07~2019.09) - 대한민국, 서초
-  - 'Monster Park'의 클라이언트 파트 담당
+  - *Monster Park*(Unity/C#)의 클라이언트 담당
 - BluestoneSoft / Client Programmer (2019.12~) - 대한민국, 서초
-  - 'SoulArk'의 클라이언트 담당
+  - *Soul Ark*(Unity/C#)의 클라이언트 담당
 
 ### 수상내역
 
