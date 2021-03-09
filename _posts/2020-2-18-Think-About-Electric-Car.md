@@ -3,7 +3,7 @@ layout: post
 title: 전기차 고민
 date: 2020-02-18 12:08:00
 author: Jeongjin Oh
-categories: Life
+category: Life
 tags: 전기차 고민
 ---
 

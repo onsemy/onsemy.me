@@ -3,7 +3,7 @@ layout: post
 title: 근황?
 date: 2018-02-26 00:00:00
 author: Jeongjin Oh
-categories: Life
+category: Life
 tags: Life
 ---
 

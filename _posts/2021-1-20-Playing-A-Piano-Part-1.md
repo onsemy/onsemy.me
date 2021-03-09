@@ -3,7 +3,7 @@ layout: post
 title: 피아노 치기 Part.1
 date: 2021-01-20 12:40:00
 author: Jeongjin Oh
-categories: Piano
+category: Piano
 tags: 피아노 舞浜の空は青いか ゼーガペイン
 ---
 

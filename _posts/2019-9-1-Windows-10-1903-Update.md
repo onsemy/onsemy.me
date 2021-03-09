@@ -3,7 +3,7 @@ layout: post
 title: Windows 10 1903 업데이트
 date: 2019-09-01 02:50:00
 author: Jeongjin Oh
-categories: Life
+category: Life
 tags: Windows 1903 Update
 ---
 

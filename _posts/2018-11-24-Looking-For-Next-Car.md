@@ -3,7 +3,7 @@ layout: post
 title: 다음 차?
 date: 2018-11-24 22:34:00
 author: Jeongjin Oh
-categories: Life
+category: Life
 tags: 벨로스터_JS i30_PD 현대자동차 K3 기아자동차
 ---
 

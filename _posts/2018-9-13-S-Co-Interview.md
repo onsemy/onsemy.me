@@ -3,7 +3,7 @@ layout: post
 title: S사 1차 면접 후기
 date: 2018-09-13 21:38:00
 author: Jeongjin Oh
-categories: Life
+category: Life
 tags: interview
 ---
 

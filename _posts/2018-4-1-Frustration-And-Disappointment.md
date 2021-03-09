@@ -3,7 +3,7 @@ layout: post
 title: 좌절, 그리고 실망
 date: 2018-04-01 22:14:00
 author: Jeongjin Oh
-categories: Life
+category: Life
 tags: 입사지원 포트폴리오
 ---
 

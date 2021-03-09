@@ -3,7 +3,7 @@ layout: post
 title: 언리얼 엔진에서의 Visual Assist X vs Resharper C++
 date: 2019-03-22 09:19:00
 author: Jeongjin Oh
-categories: Study
+category: Study
 tags: UnrealEngine4 VisualAssistX ReSharperCpp
 ---
 

@@ -1,0 +1,60 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: info
+    entries:
+      - title: Welcome to ようこそ 온새미 집에!
+      - title: about
+        url: about
+      - title: github repo
+        url: https://github.com/onsemy
+
+  - title: all posts
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
+
+  - title: posts by category
+    entries:
+      - title: Life
+        post_list:
+          category: life
+          show_more: true
+          show_more_text: See more posts...
+          show_more_url: archive-life.html
+      - title: Study
+        post_list:
+          category: study
+          show_more: true
+          show_more_text: See more posts...
+          show_more_url: archive-study.html
+      - title: Project
+        post_list:
+          category: project
+          show_more: true
+          show_more_text: See more posts...
+          show_more_url: archive-project.html
+      - title: Review
+        post_list:
+          category: review
+          show_more: true
+          show_more_text: See more posts...
+          show_more_url: archive-review.html
+      - title: Books
+        post_list:
+          category: books
+          show_more: true
+          show_more_text: See more posts...
+          show_more_url: archive-books.html
+      - title: Piano
+        post_list:
+          category: piano
+          show_more: true
+          show_more_text: See more posts...
+          show_more_url: archive-piano.html
+
+  - title: rss
+    url: feed.xml

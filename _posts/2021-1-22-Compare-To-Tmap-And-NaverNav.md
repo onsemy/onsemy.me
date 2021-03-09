@@ -3,7 +3,7 @@ layout: post
 title: 내비게이션 비교 (티맵 vs. 네이버 내비)
 date: 2021-01-22 11:53:00
 author: Jeongjin Oh
-categories: Review
+category: Review
 tags: 내비게이션 티맵 네이버내비
 ---
 

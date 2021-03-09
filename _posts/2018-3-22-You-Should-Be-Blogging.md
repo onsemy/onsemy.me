@@ -3,7 +3,7 @@ layout: post
 title: 개발자가 블로그를 운영해야 하는 이유
 date: 2018-03-22 06:00:00
 author: Jeongjin Oh
-categories: Life
+category: Life
 tags: 블로그 글쓰기 정리 습관
 cover: "/images/2018-3-22-You-Should-Be-Blogging/cover.jpg"
 ---

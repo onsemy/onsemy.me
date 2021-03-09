@@ -3,7 +3,7 @@ layout: post
 title: 주절주절
 date: 2020-06-30 23:17:00
 author: Jeongjin Oh
-categories: Life
+category: Life
 tags: Blah
 ---
 

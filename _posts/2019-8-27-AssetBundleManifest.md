@@ -3,7 +3,7 @@ layout: post
 title: AssetBundleManifest
 date: 2019-08-27 12:31:00
 author: Jeongjin Oh
-categories: Study
+category: Study
 tags: Unity AssetBundle AssetBundleManifest
 ---
 

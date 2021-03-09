@@ -3,7 +3,7 @@ layout: post
 title: Unity에서 Screenshot을 공유하기
 date: 2019-07-20 19:11:00
 author: Jeongjin Oh
-categories: Study
+category: Study
 tags: Unity Android Screenshot NativeShare
 ---
 

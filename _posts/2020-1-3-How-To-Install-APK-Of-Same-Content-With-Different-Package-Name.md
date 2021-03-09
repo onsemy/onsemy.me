@@ -3,7 +3,7 @@ layout: post
 title: 다른 Package 이름으로 같은 내용의 APK를 설치하기 (feat. Facebook)
 date: 2020-01-03 16:52:00
 author: Jeongjin Oh
-categories: Study
+category: Study
 tags: Unity Android Facebook Different Package Name
 ---
 

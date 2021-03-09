@@ -3,7 +3,7 @@ layout: post
 title: 삼성 갤럭시 노트10을 구매하다!
 date: 2019-08-19 22:48:00
 author: Jeongjin Oh
-categories: Review
+category: Review
 tags: Samsung Galaxy Note10
 ---
 

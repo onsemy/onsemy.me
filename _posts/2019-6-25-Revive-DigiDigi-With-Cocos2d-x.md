@@ -3,7 +3,7 @@ layout: post
 title: Cocos2d-x 구버전을 다시 개발하기 (feat. 디기디기)
 date: 2019-06-25 21:27:00
 author: Jeongjin Oh
-categories: Study
+category: Study
 tags: cocos2dx DigiDigi
 ---
 

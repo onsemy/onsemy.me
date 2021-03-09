@@ -3,7 +3,7 @@ layout: post
 title: 벨로스터 JS 1.6T 풀옵션 시승기
 date: 2018-12-01 01:57:00
 author: Jeongjin Oh
-categories: Review
+category: Review
 tags: 현대자동차 벨로스터_JS
 ---
 

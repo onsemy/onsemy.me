@@ -3,7 +3,7 @@ layout: post
 title: 재재재재취업
 date: 2019-11-28 21:54:00
 author: Jeongjin Oh
-categories: Life
+category: Life
 tags: 재취업
 ---
 

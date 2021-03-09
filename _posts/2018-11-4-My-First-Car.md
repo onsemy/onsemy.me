@@ -3,7 +3,7 @@ layout: post
 title: 첫차!
 date: 2018-11-04 23:00:00
 author: Jeongjin Oh
-categories: Life
+category: Life
 tags: 더넥스트스파크 중고차 쉐보레 첫차
 ---
 

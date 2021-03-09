@@ -3,7 +3,7 @@ layout: post
 title: 카테고리 개편
 date: 2019-03-25 10:33:00
 author: Jeongjin Oh
-categories: Life
+category: Life
 tags: category project study
 ---
 

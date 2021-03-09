@@ -3,7 +3,7 @@ layout: post
 title: 쏘울 부스터 EV와 모델 3 시승기
 date: 2020-02-25 22:30:00
 author: Jeongjin Oh
-categories: Review
+category: Review
 tags: 기아 쏘울부스터EV 테슬라 모델3
 ---
 

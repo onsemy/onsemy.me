@@ -3,7 +3,7 @@ layout: post
 title: Lenovo ThinkPad T480 1년 사용기
 date: 2019-07-23 18:39:00
 author: Jeongjin Oh
-categories: Review
+category: Review
 tags: Lenovo ThinkPad T480
 ---
 

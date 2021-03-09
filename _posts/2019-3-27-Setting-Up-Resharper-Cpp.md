@@ -3,7 +3,7 @@ layout: post
 title: Resharper C++ 설정
 date: 2019-03-27 13:42:00
 author: Jeongjin Oh
-categories: Study
+category: Study
 tags: resharper cpp visualstudio
 ---
 

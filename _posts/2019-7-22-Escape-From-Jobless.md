@@ -3,7 +3,7 @@ layout: post
 title: 백수 탈출
 date: 2019-07-22 14:45:00
 author: Jeongjin Oh
-categories: Life
+category: Life
 tags: Jobless
 ---
 

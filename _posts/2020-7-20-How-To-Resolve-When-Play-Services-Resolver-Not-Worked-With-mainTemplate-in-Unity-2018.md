@@ -3,7 +3,7 @@ layout: post
 title: Unity 2018에서 mainTemplate.gradle 사용 시 Play Services Resolver(Android Resolver)가 동작하지 않을 때 해결 방법
 date: 2020-07-20 14:26:00
 author: Jeongjin Oh
-categories: Study
+category: Study
 tags: Unity Android Resolver mainTemplate.gradle
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 다시 면접을 보면서...
 date: 2019-09-23 11:51:00
 author: Jeongjin Oh
-categories: Life
+category: Life
 tags: Job Interview
 ---
 

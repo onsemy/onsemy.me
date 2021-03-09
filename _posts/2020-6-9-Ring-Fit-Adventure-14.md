@@ -3,7 +3,7 @@ layout: post
 title: Ring Fit Adventure 14회차
 date: 2020-06-09 22:23:00
 author: Jeongjin Oh
-categories: Exercise
+category: Exercise
 tags: Ring_Fit_Adventure
 ---
 

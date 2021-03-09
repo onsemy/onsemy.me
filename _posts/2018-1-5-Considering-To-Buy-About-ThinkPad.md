@@ -3,7 +3,7 @@ layout: post
 title: ThinkPad X270 구매에 대한 고민
 date: 2018-01-05 00:00:00
 author: Jeongjin Oh
-categories: Life
+category: Life
 tags: ThinkPad X270
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 갤럭시 S10의 공개를 보고
 date: 2019-02-21 21:05:00
 author: Jeongjin Oh
-categories: Life
+category: Life
 tags: Samsung Galaxy S10
 ---
 

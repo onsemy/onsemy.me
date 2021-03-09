@@ -3,7 +3,7 @@ layout: post
 title: 전동킥보드에 대한 고민... 그리고 구매
 date: 2018-07-19 15:46:00
 author: Jeongjin Oh
-categories: Review
+category: Review
 tags: electric scooter kickboard etmini es pro
 ---
 

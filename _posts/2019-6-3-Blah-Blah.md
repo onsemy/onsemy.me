@@ -3,7 +3,7 @@ layout: post
 title: 주절주절
 date: 2019-06-03 00:26:00
 author: Jeongjin Oh
-categories: Life
+category: Life
 tags: 근황 잡담
 ---
 

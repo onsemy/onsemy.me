@@ -3,7 +3,7 @@ layout: post
 title: 드디어 모든 예비군 훈련이 끝나다!
 date: 2018-11-30 15:37:00
 author: Jeongjin Oh
-categories: Life
+category: Life
 tags: 대한민국_육군 예비군 훈련
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: ASUS ExpertBook B9450FA 사용기
 date: 2020-08-09 23:23:00
 author: Jeongjin Oh
-categories: Review
+category: Review
 tags: ASUS ExpertBook B9450FA Review
 ---
 

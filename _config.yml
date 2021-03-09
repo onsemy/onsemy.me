@@ -1,69 +1,29 @@
-# Site Info
-title: 'Jeongjin Oh'
-tagline: 'Jeongjin Oh'
-description: 'Lazy Game Programmer <a href="https://github.com/Game-Pocket" target="_blank">@Game-Pocket</a>'
-baseurl: ""
-url: https://onsemy.me
-logo: '/images/avatar.jpg'
+title: Jeongjin Oh # name of the site
+author: Jeongjin Oh # name of site's author
+email: onsemy@gmail.com # email of site's author
+url: https://onsemy.me # root address of the site
+baseurl: "/" # subpath of the site, e.g. "/blog"
+description: > # description of the site (multiple lines allowed)
+  Lazy Game Programmer <a href="https://github.com/Game-Pocket" target="_blank">@Game-Pocket</a>.
 
-# Site configurations
-gems:
-  - jekyll-paginate
-markdown: kramdown
-kramdown:
-  input: GFM
-excerpt_separator: "<!-- more -->"
+permalink: /:slug.html
+
+favicon: "/images/avatar.jpg" # name+extension of favicon (which must be put on the root folder)
+# goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
+
+theme: no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
+
+theme_config:
+  appearance: "dark" # can be "light", "dark" or "auto"
+  back_home_text: ".." # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  show_description: false # show blog description in home page
+
 sass:
-  style: compressed
-  sass_dir: _scss
-paginate: 5
-paginate_path: '/blog/page:num'
-permalink: pretty
+  style: :compressed
 
-version: 1.0.0
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
-# About/contact
-author:
-  name: Jeongjin Oh
-  description: <strong>Lazy Game Programmer <a href="https://github.com/Game-Pocket">@Game-Pocket</a></strong>
-  # gravatar: 3c2986ad7ac1f2230ea3596f44563328 # md5 hash of your email address
-  contact:
-    linkedin:  https://www.linkedin.com/in/onsemy
-    github:    https://github.com/onsemy
-    # facebook:  <hide>
-    twitter:   https://twitter.com/onsemy
-    # weibo:     http://weibo.com/41173780
-    email:     mailto:onsemy@gmail.com
-
-# Navigation (2nd level links supported)
-nav:
-  Home:
-    - '/'
-  Blog:
-    - '/blog/'
-  Categories:
-    - '/blog/categories/'
-    - { Life: '/blog/categories/#life' }
-    - { Study: '/blog/categories/#study' }
-    - { Project: '/blog/categories/#project' }
-    - { Review: '/blog/categories/#review' }
-    - { Books: '/blog/categories/#books' }
-    - { Piano: '/blog/categories/#piano' }
-  Tags:
-    - '/blog/tags/'
-  About:
-    - '/about/'
-
-# Where are tags and categories displayed
-tag_page: '/blog/tags/'
-category_page: '/blog/categories/'
-
-hero:
-  image: /images/home.gif
-  caption: Welcome to ようこそ 온새미 집에!
-
-# Plugins
-mathjax: true # whether support mathjax
-google_analytics_token: '' # leave blank if you don't want google analytics
 disqus_short_name: 'onsemy' # leave blank if you don't want disqus
-

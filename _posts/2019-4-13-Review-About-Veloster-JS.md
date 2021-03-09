@@ -3,7 +3,7 @@ layout: post
 title: 벨로스터(JS) 1.6 터보 132일 주행 후기
 date: 2019-04-13 19:24:00
 author: Jeongjin Oh
-categories: Review
+category: Review
 tags: 현대 Veloster JS 1.6T
 ---
 

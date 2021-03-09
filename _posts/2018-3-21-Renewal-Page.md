@@ -3,7 +3,7 @@ layout: post
 title: 테마 변경
 date: 2018-03-21 00:07:00
 author: Jeongjin Oh
-categories: Life
+category: Life
 tags: Theme
 ---
 

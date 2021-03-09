@@ -3,7 +3,7 @@ layout: post
 title: Tesla Model 3 Standard Range Plus
 date: 2020-04-24 14:37:00
 author: Jeongjin Oh
-categories: Review
+category: Review
 tags: Telsa Model3 SR+
 ---
 

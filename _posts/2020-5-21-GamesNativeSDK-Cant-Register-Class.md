@@ -3,7 +3,7 @@ layout: post
 title: Google Play Games에서 `GamesNativeSDK - Can't register class...`가 Log에 나왔을 경우
 date: 2020-05-21 14:19:00
 author: Jeongjin Oh
-categories: Study
+category: Study
 tags: Unity GPGS Android
 ---
 

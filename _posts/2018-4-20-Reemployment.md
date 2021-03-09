@@ -3,7 +3,7 @@ layout: post
 title: 재취업
 date: 2018-04-20 03:40:00
 author: Jeongjin Oh
-categories: Life
+category: Life
 tags: 취업
 cover: "/images/2018-4-20-Reemployment/1.jpg"
 ---

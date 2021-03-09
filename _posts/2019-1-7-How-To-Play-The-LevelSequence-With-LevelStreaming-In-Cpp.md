@@ -3,7 +3,7 @@ layout: post
 title: C++에서 LevelStreaming으로 불러온 LevelSequence를 재생하는 방법
 date: 2019-01-07 15:54:00
 author: Jeongjin Oh
-categories: Study
+category: Study
 tags: UnrealEngine4 LevelSequence LevelStreaming
 ---
 

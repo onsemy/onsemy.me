@@ -3,7 +3,7 @@ layout: post
 title: 기변
 date: 2019-05-05 23:51:00
 author: Jeongjin Oh
-categories: Life
+category: Life
 tags: 현대_The_New_IONIQ_HEV
 ---
 

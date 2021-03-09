@@ -3,7 +3,7 @@ layout: post
 title: 새로운 나의 노트북
 date: 2018-02-01 00:00:00
 author: Jeongjin Oh
-categories: Life
+category: Life
 tags: DELL XPS
 ---
 

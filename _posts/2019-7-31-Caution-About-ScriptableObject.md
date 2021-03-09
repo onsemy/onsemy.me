@@ -3,7 +3,7 @@ layout: post
 title: ScriptableObject 사용시 주의해야할 것
 date: 2019-07-31 15:21:00
 author: Jeongjin Oh
-categories: Study
+category: Study
 tags: Unity ScriptableObject
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: The New IONIQ 한달 주행 후기
 date: 2019-06-11 20:28:00
 author: Jeongjin Oh
-categories: Review
+category: Review
 tags: Hyundai IONIQ Review
 ---
 

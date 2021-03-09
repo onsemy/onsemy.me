@@ -3,7 +3,7 @@ layout: post
 title: 비상사태
 date: 2021-03-06 04:40:00
 author: Jeongjin Oh
-categories: Life
+category: Life
 tags: 비상사태 퇴직
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 다시 백수로...
 date: 2019-09-18 14:33:00
 author: Jeongjin Oh
-categories: Life
+category: Life
 tags: Job
 ---
 

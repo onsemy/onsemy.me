@@ -3,7 +3,7 @@ layout: post
 title: N사 면접 후기
 date: 2018-03-14 17:00:00
 author: Jeongjin Oh
-categories: Life
+category: Life
 tags: Interview
 ---
 

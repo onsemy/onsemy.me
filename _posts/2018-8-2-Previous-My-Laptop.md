@@ -3,7 +3,7 @@ layout: post
 title: 나의 노트북 연대기
 date: 2018-08-02 11:12:00
 author: Jeongjin Oh
-categories: Review
+category: Review
 tags: laptop history lenovo thinkpad dell xps samsung ativ apple macbook razer blade stealth microsoft surface pro msi x460dx
 ---
 

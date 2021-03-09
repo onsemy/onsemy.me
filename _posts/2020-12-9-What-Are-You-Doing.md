@@ -3,7 +3,7 @@ layout: post
 title: 뭐하고 살고 있는가
 date: 2020-12-09 00:44:00
 author: Jeongjin Oh
-categories: Life
+category: Life
 tags: IRL
 ---
 

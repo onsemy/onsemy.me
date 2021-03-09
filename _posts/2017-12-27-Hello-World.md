@@ -3,7 +3,7 @@ layout: post
 title: Hell(o) World...?
 date: 2017-12-27 00:00:00
 author: Jeongjin Oh
-categories: Life
+category: Life
 tags: Hello World
 ---
 

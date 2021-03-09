@@ -3,7 +3,7 @@ layout: post
 title: GitHub Page 저장소 이동
 date: 2018-01-03 00:00:00
 author: Jeongjin Oh
-categories: Life
+category: Life
 tags: Github Search
 ---
 

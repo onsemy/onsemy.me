@@ -3,7 +3,7 @@ layout: post
 title: 열흘 자차 출퇴근 후기
 date: 2018-11-15 01:08:00
 author: Jeongjin Oh
-categories: Review
+category: Review
 tags: 더넥스트스파크 쉐보레 출퇴근 후기
 ---
 

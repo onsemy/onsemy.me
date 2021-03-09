@@ -3,7 +3,7 @@ layout: post
 title: 모델 3의 액세서리 목록
 date: 2020-03-01 01:34:00
 author: Jeongjin Oh
-categories: Life
+category: Life
 tags: 모델3 액세서리
 ---
 

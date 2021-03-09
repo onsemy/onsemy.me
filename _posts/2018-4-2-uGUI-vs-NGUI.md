@@ -3,7 +3,7 @@ layout: post
 title: uGUI vs NGUI?
 date: 2018-04-02 21:12:00
 author: Jeongjin Oh
-categories: Study
+category: Study
 tags: uGUI Unity3D
 ---
 

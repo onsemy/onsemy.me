@@ -3,7 +3,7 @@ layout: post
 title: Facebook이 설치된 Android에서 Facebook Login을 할 때 주의할 점
 date: 2020-01-22 18:31:00
 author: Jeongjin Oh
-categories: Study
+category: Study
 tags: Facebook Login Android
 ---
 

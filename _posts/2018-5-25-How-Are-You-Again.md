@@ -3,7 +3,7 @@ layout: post
 title: 다시 근황?
 date: 2018-05-25 10:18:00
 author: Jeongjin Oh
-categories: Life
+category: Life
 tags: Life iPad Apple_Pencil AutoDesk_SketchBook Destiny_2
 ---
 

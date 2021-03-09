@@ -3,7 +3,7 @@ layout: post
 title: 재재취업
 date: 2018-10-10 22:54:00
 author: Jeongjin Oh
-categories: Life
+category: Life
 tags: reemployment
 ---
 

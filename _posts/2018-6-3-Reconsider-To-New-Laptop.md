@@ -3,7 +3,7 @@ layout: post
 title: 노트북... 또 고민?!
 date: 2018-06-03 01:46:00
 author: Jeongjin Oh
-categories: Life
+category: Life
 tags: dell xps 13 9370 15 9570
 ---
 
