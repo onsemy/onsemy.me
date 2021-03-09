@@ -2,22 +2,22 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: Info
     entries:
       - title: Welcome to ようこそ 온새미 집에!
-      - title: about
+      - title: About
         url: about
-      - title: github repo
+      - title: Github repo
         url: https://github.com/onsemy
 
-  - title: all posts
+  - title: All posts
     post_list:
       limit: 10
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
 
-  - title: posts by category
+  - title: Posts by category
     entries:
       - title: Life
         post_list:
