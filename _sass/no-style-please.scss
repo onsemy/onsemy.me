@@ -23,9 +23,16 @@ html, body { background: white; }
 
 html { height: 100%; }
 
+@font-face{
+  font-family: Neo둥근모, neodgm;
+  src: local(neodgm),
+  url(neodgm.woff) format('woff'),
+  url(neodgm.ttf) format('truetype');
+}
+
 body {
   color: black;
-  font-family: monospace;
+  font-family: neodgm;
   font-size: 1.3rem;
   line-height: 1.3;
   margin: 0;
