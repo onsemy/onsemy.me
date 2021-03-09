@@ -15,4 +15,4 @@ tags: no-style-please jekyll
 
 굉장히 단순해서 채택해보았다. 특징은 Light/Dark 모드가 자동으로 전환된다는 점, 그리고 정말 정말 Simple 하다는 것.
 
-여기에 추가로 *Neo둥근모* Font를 사용했고, *Disqus*가 적용되어 있지 않아서 이전 Theme를 참고하여 적용해두었다. 둥근모 글꼴이 적용되어 있는 걸 보니 PC통신 시절 느낌이 물씬 난다.
+여기에 추가로 [*Neo둥근모*](https://neodgm.dalgona.dev/) 글꼴을 사용했고, *Disqus*가 적용되어 있지 않아서 이전 Theme를 참고하여 적용해두었다. 둥근모 글꼴이 적용되어 있는 걸 보니 PC통신 시절 느낌이 물씬 난다.
