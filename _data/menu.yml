@@ -21,7 +21,7 @@ entries:
     entries:
       - title: Life
         post_list:
-          category: life
+          category: Life
           show_more: true
           show_more_text: See more posts...
           show_more_url: archive-life.html
