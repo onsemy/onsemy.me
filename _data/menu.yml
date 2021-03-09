@@ -15,7 +15,7 @@ entries:
       limit: 10
       show_more: true
       show_more_text: See archive...
-      show_more_url: archive.html
+      show_more_url: archive
 
   - title: Posts by category
     entries:
@@ -25,42 +25,42 @@ entries:
           limit: 3
           show_more: true
           show_more_text: See more posts...
-          show_more_url: archive-life.html
+          show_more_url: archive-life
       - title: Study
         post_list:
           category: Study
           limit: 3
           show_more: true
           show_more_text: See more posts...
-          show_more_url: archive-study.html
+          show_more_url: archive-study
       - title: Project
         post_list:
           category: Project
           limit: 3
           show_more: true
           show_more_text: See more posts...
-          show_more_url: archive-project.html
+          show_more_url: archive-project
       - title: Review
         post_list:
           category: Review
           limit: 3
           show_more: true
           show_more_text: See more posts...
-          show_more_url: archive-review.html
+          show_more_url: archive-review
       - title: Books
         post_list:
           category: Books
           limit: 3
           show_more: true
           show_more_text: See more posts...
-          show_more_url: archive-books.html
+          show_more_url: archive-books
       - title: Piano
         post_list:
           category: Piano
           limit: 3
           show_more: true
           show_more_text: See more posts...
-          show_more_url: archive-piano.html
+          show_more_url: archive-piano
 
   - title: rss
     url: feed.xml

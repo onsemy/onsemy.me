@@ -1,5 +1,5 @@
 ---
 layout: archive
-which_category: piano
+which_category: Piano
 title: All posts of category 'Piano'
 ---

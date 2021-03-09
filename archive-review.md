@@ -1,5 +1,5 @@
 ---
 layout: archive
-which_category: review
+which_category: Review
 title: All posts of category 'Review'
 ---
