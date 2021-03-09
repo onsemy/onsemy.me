@@ -4,7 +4,6 @@
 entries:
   - title: Info
     entries:
-      - title: Welcome to ようこそ 온새미 집에!
       - title: About
         url: about
       - title: Github repo
