@@ -22,36 +22,42 @@ entries:
       - title: Life
         post_list:
           category: Life
+          limit: 5
           show_more: true
           show_more_text: See more posts...
           show_more_url: archive-life.html
       - title: Study
         post_list:
-          category: study
+          category: Study
+          limit: 5
           show_more: true
           show_more_text: See more posts...
           show_more_url: archive-study.html
       - title: Project
         post_list:
-          category: project
+          category: Project
+          limit: 5
           show_more: true
           show_more_text: See more posts...
           show_more_url: archive-project.html
       - title: Review
         post_list:
-          category: review
+          category: Review
+          limit: 5
           show_more: true
           show_more_text: See more posts...
           show_more_url: archive-review.html
       - title: Books
         post_list:
-          category: books
+          category: Books
+          limit: 5
           show_more: true
           show_more_text: See more posts...
           show_more_url: archive-books.html
       - title: Piano
         post_list:
-          category: piano
+          category: Piano
+          limit: 5
           show_more: true
           show_more_text: See more posts...
           show_more_url: archive-piano.html
