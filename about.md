@@ -50,10 +50,11 @@ permalink: /about/
   - *Monster Park* - Unity/C#
     - 아웃게임 컨텐츠 제작 및 유지 보수 (UGUI)
     - 리펙토링 및 최적화
-- BluestoneSoft / Client Programmer (2019.12~) - 대한민국, 서초
+- BluestoneSoft / Client Programmer (2019.12~2021.04) - 대한민국, 서초
   - *Soul Ark* - Unity/C#
     - 아웃게임 컨텐츠 제작 및 유지 보수 (UGUI)
     - 빌드 시스템 관리
+- 111% / Game Programmer (2021.05~) - 대한민국, 강남
 
 ### 수상내역
 
