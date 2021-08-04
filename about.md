@@ -54,7 +54,11 @@ permalink: /about/
   - *Soul Ark* - Unity/C#
     - 아웃게임 컨텐츠 제작 및 유지 보수 (UGUI)
     - 빌드 시스템 관리
-- Rich Alien / Game Programmer (2021.05~) - 대한민국, 강남
+  - *Project S2* - Unity/C#
+    - 스토리 기반의 모바일 RPG 프로토타이핑
+- Rich Alien / Game Programmer (2021.05~2021.07) - 대한민국, 강남
+  - *Project S* - Unity/C#
+    - 실시간 1:1 PVP 대전이 가능한 보드 RPG 프로토타이핑
 
 ### 수상내역
 
