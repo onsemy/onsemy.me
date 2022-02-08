@@ -4,7 +4,7 @@ email: onsemy@gmail.com # email of site's author
 url: https://onsemy.me # root address of the site
 baseurl: "/" # subpath of the site, e.g. "/blog"
 description: > # description of the site (multiple lines allowed)
-  Lazy Life And Programmer # <a href="https://github.com/Game-Pocket" target="_blank">@Game-Pocket</a>.
+  Lazy Life And Programmer
 
 permalink: pretty #/:slug.html
 
