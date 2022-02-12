@@ -1,29 +1,50 @@
-title: Jeongjin Oh # name of the site
-author: Jeongjin Oh # name of site's author
-email: onsemy@gmail.com # email of site's author
-url: https://onsemy.me # root address of the site
-baseurl: "/" # subpath of the site, e.g. "/blog"
-description: > # description of the site (multiple lines allowed)
-  Lazy Life And Programmer
+# Setup
+title: Jeongjin Oh
+url: https://onsemy.me
+paginate: 1
+baseurl: "/"
+permalink: pretty
 
-permalink: pretty #/:slug.html
+# Gems
+plugins:
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-seo-tag
 
-favicon: "/images/avatar.jpg" # name+extension of favicon (which must be put on the root folder)
-# goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
-
-remote_theme: riggraz/no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
-
-theme_config:
-  appearance: "auto" # can be "light", "dark" or "auto"
-  back_home_text: ".." # customize text for homepage link in post layout
-  date_format: "%Y-%m-%d" # customize how date is formatted
-  show_description: true # show blog description in home page
+# Optimize Jekyll
+exclude:
+  - .editorconfig
+  - .git
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
 
 sass:
+  sass_dir: _sass
   style: :compressed
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+# Options
+
+# Replace this value and uncomment to enable Google Analytics tracking
+# ga_analytics: UA-000000-0
+
+# Specify the author for blog posts
+author:
+  name: Jeongjin Oh
+  url: https://github.com/onsemy
+  email: onsemy@gmail.com
+
+# Custom vars
+version: 3.0.0
+
+# Navbar page list
+nav:
+  - title: Blog
+    url: /archive
+
+  - title: About
+    url: /about
 
 disqus_short_name: 'onsemy' # leave blank if you don't want disqus

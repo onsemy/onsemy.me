@@ -1,123 +1,128 @@
-# no style, please!
+# Dark Poole
 
-<img src="https://raw.githubusercontent.com/riggraz/no-style-please/master/logo.png" width="64" align="left" />A (nearly) no-CSS, fast, minimalist [Jekyll](https://jekyllrb.com/) theme.
-Inspired by [elly's site](http://tilde.town/~elly/), expressly created for [my personal blog](https://riggraz.dev/).
+![Dark Poole](https://user-images.githubusercontent.com/13270895/89133355-26b3af80-d4e9-11ea-81cd-eacaa9c78320.png)
 
-<h3 align="center"><a href="https://riggraz.dev/no-style-please/">Try the demo out!</a></h3>
+Dark Poole is a permanent dark theme of the Poole theme by [@mdo](https://github.com/mdo). I made the theme darker, inspired by [Derek Kedziora's site](https://derekkedziora.com/). Unlike default Poole that utilizes CSS media queries to activate dark mode, the theme will stay dark regardless of the user's preference.
 
-<img src="https://raw.githubusercontent.com/riggraz/no-style-please/master/_screenshots/featured-image.png" />
+- I added a navbar that is easily customizable. Check out [Development](#development) to see how.
+- I also got rid of the "tagline" in the navbar. I think it looks cleaner without it.
+- Finally, I changed the default font size to 20px. I have 20/20 vision and still thought the original font size was too small.
 
-## Features
+That's it! I tried to be least intrusive as possible to the Poole code base.
 
-* Fast (**1kb of CSS!** For more information on performance and more, see [Page Speed Insights report](https://raw.githubusercontent.com/riggraz/no-style-please/master/_screenshots/page-speed-insights-report.png) and [Lighthouse report](https://raw.githubusercontent.com/riggraz/no-style-please/master/_screenshots/lighthouse-report.png))
-* Light, dark and auto modes
-* Responsive
-* Content first (typography optimized for maximum readability)
-* SEO optimized (uses [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag))
-* RSS feed (uses [Jekyll Feed](https://github.com/jekyll/jekyll-feed))
-* Fully compatible with [GitHub Pages](https://pages.github.com/) (see [GitHub Pages installation](#github-pages-installation))
+**I noticed that Poole's documentation is slightly outdated and misleading. This documentation will try to address most, if not all, of these issues.**
 
-## Installation
+---
 
-If you haven't already created your blog using Jekyll, follow the [instructions](https://jekyllrb.com/docs/) to do so from Jekyll's documentation.
+## Contents
 
-NOTE: if you are using Jekyll with GitHub Pages, see the [GitHub Pages installation section](#github-pages-installation).
-
-Then, to style your blog with this theme, add this line to your Jekyll site's `Gemfile`:
-
-```ruby
-gem "no-style-please"
-```
-
-And add this line to your Jekyll site's `_config.yml`:
-
-```yaml
-theme: no-style-please
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install no-style-please
-
-### GitHub Pages installation
-
-If you want to use this theme for your Jekyll's site deployed on [GitHub Pages](https://pages.github.com/), follow the instructions on [this page](https://docs.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-using-jekyll#adding-a-theme).
+- [Usage](#usage)
+- [Development](#development)
+- [Author](#author)
+- [License](#license)
 
 ## Usage
 
-You can edit `_config.yml` file to customize your blog. You can change things such as the name of the blog, the author, the appearance of the theme (light, dark or auto), how dates are formatted, etc. Customizable fields should be straightforward to understand. Still, `_config.yml` contains some comments to help you understand what each field does.
+### 1. Install dependencies
 
-For further customization (e.g. layout, CSS) see the [official Jekyll's documentation](https://jekyllrb.com/docs/themes/#overriding-theme-defaults) on customizing gem-based themes.
+Poole is built on Jekyll and uses its built-in SCSS compiler to generate our CSS. Before getting started, you'll need to install the Jekyll gem and related dependencies:
 
-### Customize the menu
-
-In order to add/edit/delete entries from the main menu, you have to edit the `menu.yml` file inside `_data` folder. Through that file you can define the structure of the menu. Take a look at the default configuration to get an idea of how it works and read on for a more comprehensive explanation.
-
-The `menu.yml` file accepts the following fields:
-
-- `entries` define a new unordered list that will contain menu entries
-- each entry is marked by a `-` at the beginning of the line
-- each entry can have the following attributes:
-    - `title`, which defines the text to render for this menu entry (**NB: you can also specify HTML!**)
-    - `url`, which can be used to specify an URL for this entry. If not specified, `title` will be rendered as-is; otherwise `title` will be sorrounded by a link tag pointing to the specified URL. Note that the URL can either be relative or absolute. Also note that you can get the same result by placing an ```<a>``` tag in the `title` field.
-    - `post_list`, which can be set either to `true` or to an object. If it is true, the entry will have a list of all posts as subentries. This is used to render your post list. If you want to customize which posts to render (e.g. by category), you can add one or more of the following attributes under `post_list`:
-        - `category`, which can be set to a string. It is used to render a list of posts of the specified category only. If you don't set it, then posts of all categories will be rendered.
-        - `limit`, which can be set to a number. It specifies the number of posts to show. If not set, all posts will be rendered.
-        - `show_more`, which can be true. If it is true and if the number of posts to show is greater than the specified `limit`, render a link to another page. To specify the URL and the text of the link, you can set `show_more_url` and `show_more_text` attributes, which are documented below.
-        - `show_more_url`, which can be a string. It specifies the URL for the show more link. Use only if `show_more` is true. This will usually redirect to a page containing all posts, which you can easily create using an archive page (see [create archive pages](#create-archive-pages) section)
-        - `show_more_text`, which can be a string. It specifies the text for the show more link. Use only if `show_more` is true.
-    - `entries`, yes, you can have entries inside entries. In this way you can create nested sublists!
-
-### Create archive pages
-
-A so-called archive page is a page that shows a list of posts (see [this](https://riggraz.dev/no-style-please/all-posts) for an example). You can create an archive page by creating a page and putting the following frontmatter:
-
-```
----
-layout: archive
-title: The title of the page here
-which_category: name-of-category
----
+```bash
+$ gem install jekyll jekyll-gist jekyll-sitemap jekyll-seo-tag
 ```
 
-`which_category` is optional: if you don't put it, then all posts of the blog will be listed; on the other hand, if you specify a category, only posts of that category will be shown.
+### 2. Install bundler
 
-This feature is particularly useful if used together with the `show_more` attribute in the menu. For example, if you want to limit the number of posts shown in the home page to 5 but add a link to view them all, then you can create an archive page using the method showed above and link to it using the `show_more_url` attribute in `menu.yml`. See [this example](https://github.com/riggraz/no-style-please/blob/master/_data/menu.yml) if you're in doubt.
+You must have bundler installed. If you already have bundler installed, please skip this step.
 
-### Customize the index page
+```bash
+# Update Rubygems
+$ gem update --system
+# Update bundler
+$ gem install bundler
+```
 
-The `index.md` page should use layout `home`, which is the layout that displays the menu. If you want to have some content after the menu, you can just add that content in the `index.md` file, and it will automatically show under the menu.
+### 3. Running locally
 
-Another thing you can do to customize the index page is show the description of your blog between the title and the menu. To do this, just edit `_config.yml` and change `theme_config.show_description` to `true`.
+To see your Jekyll site with Poole applied, start a Jekyll server. In Terminal, from `/dark-poole` (or whatever your Jekyll site's root directory is named):
 
-### Pro tips
+```bash
+$ bundle exec jekyll serve
+```
 
-#### Dark mode for images
+Open <http://localhost:4000> in your browser, and voilà.
 
-This theme provides dark mode by inverting all colors of light mode throught the CSS `invert()` function. This approach would also invert the color of all images, but, since this is not the behaviour one would expect, images are not inverted by default.
+### 4. Serving it up
 
-However, if you would like to force the color inversion on a specific image you can do so by applying `class="ioda"` to that image ("ioda" stands for "invert on dark appearance"). See the image in the [overview post](https://github.com/riggraz/no-style-please/blob/master/_posts/2020-07-07-overview-post.md) for an example of this approach. Note that color inversion will take place only when the theme has dark appearance!
+If you host your code on GitHub, you can use [GitHub Pages](https://pages.github.com) to host your project.
 
-For example, if you have a black and white image it could make sense to invert it in dark mode. On the other hand, a colorful image will probably look bad if inverted.
+1. Fork this repo and switch to the `gh-pages` branch.
+1. If you're [using a custom domain name](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages), modify the `CNAME` file to point to your new domain.
+1. If you're not using a custom domain name, **modify the `url` in `_config.yml`** to point to your GitHub Pages URL. Example: for a site hosted at `username.github.io`, use `http://username.github.io`.
+1. If you want to use your repo name as a base url, **set the `url`** to your repo link and **set the `baseurl`** to your repo name in **`_config.yml`**. Example: for site hosted on `https://username.github.io/dark-poole`, set `url` as `https://username.github.io/dark-poole` and `baseurl` as `/dark-poole`.
+1. Done! Head to your GitHub Pages URL or custom domain.
 
-## Contributing
+No matter your production or hosting setup, be sure to verify the `baseurl` option file and `CNAME` settings. Not applying this correctly can mean broken styles on your site.
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/riggraz/no-style-please. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+### 5. Pagination for sites with base urls
+
+If you are using a base url for your site, (for example, hosted on `https://username.github.io/dark-poole`) you have to make some changes to get jekyll-pagination to work correctly:
+
+In `_config.yml`, add this line:
+
+```yaml
+paginate_path: "/baseurl/page:num/"
+```
+
+In `archive.md`, add `{{ site.baseurl }}` before `{{ post.url }}`
+
+```html
+<!-- Add "{{ site.baseurl }}" -->
+<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+```
+
+In `index.html`, remove the `prepend:`:
+
+```html
+<!-- Remove "prepend:" in "prepend: relative_url" -->
+<a
+  class="pagination-item newer"
+  href="{{ paginator.previous_page_path | relative_url }}"
+  >Newer</a
+>
+```
 
 ## Development
 
-To set up your environment to develop this theme, run `bundle install`.
+Poole has two branches, but only one is used for active development.
 
-Your theme is setup just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
+- `master` for development. **All pull requests should be to submitted against `master`.**
+- `gh-pages` for hosted demo **Please avoid using this branch.**
 
-When your theme is released, only the files in `_layouts`, `_includes`, `_sass` and `assets` tracked with Git will be bundled.
-To add a custom directory to your theme-gem, please edit the regexp in `no-style-please.gemspec` accordingly.
+CSS is handled via Jeykll's built-in Sass compiler. Source Sass files are located in `_sass/`, included into `styles.scss`, and compile to `styles.css`.
+
+### Customize Navbar
+
+You can easily customize the navbar by tweaking the `_config.yml` file. Simply change the title and url of each of the nav elements, or add more. The order will be preserved in the site.
+
+```yaml
+nav:
+  - title: Blog
+    url: /archive
+
+  - title: About
+    url: /about
+```
+
+## Author
+
+**Mark Otto**
+
+- <https://github.com/mdo>
+- <https://twitter.com/mdo>
 
 ## License
 
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+Open sourced under the [MIT license](LICENSE.md).
 
+<3
