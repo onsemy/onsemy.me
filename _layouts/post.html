@@ -8,14 +8,19 @@ layout: default
   {{ content }}
 </article>
 
-<script src="https://utteranc.es/client.js"
-        repo="{{ site.utterances.repo }}"
-        issue-term="pathname"
-        label="Comment"
-        theme="github-dark"
-        crossorigin="anonymous"
-        async>
-</script>
+{% if site.utterances.repo %}
+<div class="comments">
+  <h3>Comments</h3>
+  <script src="https://utteranc.es/client.js"
+          repo="{{ site.utterances.repo }}"
+          issue-term="pathname"
+          label="Comment"
+          theme="github-dark"
+          crossorigin="anonymous"
+          async>
+  </script>
+</div>
+{% endif %}
 
 {% if site.disqus_short_name %}
 <div class="comments">
