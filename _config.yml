@@ -1,5 +1,6 @@
 # Setup
 title: Jeongjin Oh
+description: Lazy Life And Programmer
 url: https://onsemy.me
 paginate: 1
 baseurl: "/"
@@ -48,3 +49,5 @@ nav:
     url: /about
 
 disqus_short_name: # leave blank if you don't want disqus
+utterances:
+  repo: onsemy/onsemy.me
