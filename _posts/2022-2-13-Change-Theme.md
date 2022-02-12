@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 테마 변경 - Dark Poole
-date: 2022-02-13 03:12:00
+date: 2022-02-13 03:12:00 +0900
 author: Jeongjin Oh
 category: Life
 tags: dark-poole jekyll
