@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![오정진 사진]({{ site.baseurl }}/images/me.jpg)
+![오정진 사진](https://avatars.githubusercontent.com/u/2973238)
 
 기본정보
 --------------------
