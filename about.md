@@ -60,8 +60,8 @@ permalink: /about/
   - *Project S* - Unity/C#
     - 실시간 1:1 PVP 대전이 가능한 보드 RPG 프로토타이핑
 - VTOK / Programmer (2021.11~) - 대한민국, 성남
-  - *VTOK* - Unity/C#, Flutter/Dart
-    - Flutter/Unity(2D) 기반의 Metaverse Service App 제작
+  - *iSOBOX* - Unity/C#, Flutter/Dart
+    - Flutter/Unity(2D) 기반의 Metaverse NFT Platform 제작
 
 ### 수상내역
 
