@@ -77,6 +77,8 @@ permalink: /about/
 
 ### 연락하기
 
+- [discord](https://discord.gg/rWFRhgMrE4)
 - [email](mailto:onsemy@gmail.com)
 - [github](https://github.com/onsemy)
 - [linkedin](https://linkedin.com/in/onsemy)
+- [rocketpunch](https://www.rocketpunch.com/@284d7b427b2443be)
