@@ -59,7 +59,7 @@ permalink: /about/
 - Rich Alien / Game Programmer (2021.05~2021.07) - 대한민국, 강남
   - *Project S* - Unity/C#
     - 실시간 1:1 PVP 대전이 가능한 보드 RPG 프로토타이핑
-- VTOK / Programmer (2021.11~) - 대한민국, 성남
+- VTOK / Frontend Developer (2021.11~) - 대한민국, 성남
   - *iSOBOX* - Unity/C#, Flutter/Dart
     - Flutter/Unity(2D) 기반의 Metaverse NFT Platform 제작
 
@@ -75,8 +75,10 @@ permalink: /about/
 
 - 삼성소프트웨어멤버십 강남멤버십 23-3기 게임 프로그래머 (2012.12~2013.12) - 대한민국, 강남
 
-### Contact me
+### 연락하기
 
+- [discord](https://discord.gg/rWFRhgMrE4)
 - [email](mailto:onsemy@gmail.com)
 - [github](https://github.com/onsemy)
 - [linkedin](https://linkedin.com/in/onsemy)
+- [rocketpunch](https://www.rocketpunch.com/@284d7b427b2443be)
