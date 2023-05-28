@@ -36,7 +36,9 @@ tags:
 1년 반 동안 열심히 만들고 있는 회사 프로젝트가 드디어 런칭했다. 아직 부족한 부분도 많지만, 그래도 런칭하게 되어 속시원하다. ~~(아직 할 일이 많은 것은 함정.)~~
 
 > 홈페이지: https://www.isobox.io
+
 > iOS: https://apps.apple.com/kr/app/isobox/id1642455416
+
 > Android: https://play.google.com/store/apps/details?id=club.vtok.isoboxapplication
 
 고생해서 만든 만큼 잘 되었으면 좋겠다.
