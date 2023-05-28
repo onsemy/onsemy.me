@@ -59,7 +59,7 @@ permalink: /about/
 - Rich Alien / Game Programmer (2021.05~2021.07) - 대한민국, 강남
   - *Project S* - Unity/C#
     - 실시간 1:1 PVP 대전이 가능한 보드 RPG 프로토타이핑
-- VTOK / Frontend Developer (2021.11~) - 대한민국, 성남
+- VTOK / Frontend Developer (2021.11~2023.05) - 대한민국, 성남
   - *iSOBOX* - Unity/C#, Flutter/Dart
     - Flutter/Unity(2D) 기반의 Metaverse NFT Social Platform 제작
 
