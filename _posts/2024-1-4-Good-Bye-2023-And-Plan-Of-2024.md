@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2023년 회고 및 2024년 계획
-date: 2023-01-04 16:42:00 +0900
+date: 2024-01-04 16:42:00 +0900
 author: Jeongjin Oh
 category: Life
 tags:
