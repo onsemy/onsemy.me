@@ -3,7 +3,7 @@ layout: post
 title: Godot에서의 GetNode 함수에 대해
 date: 2024-01-22 22:40:00 +0900
 author: Jeongjin Oh
-category: Life
+category: Study
 tags: Godot Csharp Performance
 ---
 
