@@ -62,7 +62,7 @@ permalink: /about/
 - VTOK / Frontend Developer (2021.11~2023.05) - 대한민국, 성남
   - *iSOBOX* - Unity/C#, Flutter/Dart
     - Flutter/Unity(2D) 기반의 Metaverse NFT Social Platform 제작
-- WeMadBlock / Client Programmer (2023.06~) - 대한민국, 성동
+- WeMadBlock / Client Programmer (2023.06~2024.09) - 대한민국, 성동
   - *Another World* - Unity/C#
     - Metaverse NFT MMORPG 제작
 
