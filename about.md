@@ -26,16 +26,12 @@ permalink: /about/
 
 ### 경력사항
 
-- ToWinGames / Client Engineer (2014.06~2014.08) - 대한민국, 서초
-  - *몬스터친구들 for Kakao* - Unity/C#
-    - 카카오SDK를 포함한 각종 플러그인 연동
-    - 아웃게임 컨텐츠 제작 보조 (NGUI)
 - Zepetto Co. / DAY1 Eng Client Engineer (2015.02~2017.06) - 대한민국, 마포
   - *PointBlank Mobile* - Unity/C#
     - UI(uGUI) 시스템 및 아웃게임 컨텐츠, 클라이언트 통신 시스템, 빌드 시스템 제작 및 유지 보수
   - *Project L* - Unity/C#
     - 인게임 컨텐츠 프로토타이핑
-- FunCrew Inc. / Client Engineer (2017.07~2018.03) - 일본, 시부야
+- FunCrew Inc. / Client Engineer (2017.07~2018.03) - 일본, 시부야 및 대한민국, 서초
   - *マチガイブレイカー* - Unity/C#
     - UI(uGUI) 시스템, 인게임 컨텐츠, 개발툴, 빌드 시스템 제작
 - Entermate Co., Ltd / Client Engineer (2018.04~2018.08) - 대한민국, 서초
@@ -46,19 +42,12 @@ permalink: /about/
   - *미르W* - UE4/C++
     - 게임 제작에 필요한 시스템, 개발툴 제작 및 유지 보수
     - 아웃게임 컨텐츠 제작
-- OvenCode / Gameplay Programmer (2019.07~2019.09) - 대한민국, 서초
-  - *Monster Park* - Unity/C#
-    - 아웃게임 컨텐츠 제작 및 유지 보수 (UGUI)
-    - 리펙토링 및 최적화
 - BluestoneSoft / Client Programmer (2019.12~2021.04) - 대한민국, 서초
   - *Soul Ark* - Unity/C#
     - 아웃게임 컨텐츠 제작 및 유지 보수 (UGUI)
     - 빌드 시스템 관리
   - *Project S2* - Unity/C#
     - 스토리 기반의 모바일 RPG 프로토타이핑
-- Rich Alien / Game Programmer (2021.05~2021.07) - 대한민국, 강남
-  - *Project S* - Unity/C#
-    - 실시간 1:1 PVP 대전이 가능한 보드 RPG 프로토타이핑
 - VTOK / Frontend Developer (2021.11~2023.05) - 대한민국, 성남
   - *iSOBOX* - Unity/C#, Flutter/Dart
     - Flutter/Unity(2D) 기반의 Metaverse NFT Social Platform 제작
