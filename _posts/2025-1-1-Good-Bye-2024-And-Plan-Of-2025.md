@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2024년 회고 및 2025년 계획
-date: 2024-01-01 13:04:00 +0900
+date: 2025-01-01 13:04:00 +0900
 author: Jeongjin Oh
 category: Life
 tags: 회고 야근 Godot 권고사직 실업급여 구직활동 데스티니 최후의형체 반전세 이사 여행
